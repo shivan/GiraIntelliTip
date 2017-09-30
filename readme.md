@@ -1,6 +1,6 @@
 Syntax Highlighting for Gira Logikbausteine (currently only german)
 
-![Screenshot](/screenshot.png)
+![Screenshot](/Screenshot.png)
 
 ## Usage ##
 
